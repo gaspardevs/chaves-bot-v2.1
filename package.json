@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "colors": "^1.4.0",
+    "fs-extra": "^11.3.3",
+    "gradient-string": "^3.0.0",
+    "openai": "^6.27.0",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.6"
+  },
+  "name": "chaves-bot",
+  "version": "2.1.0.0",
+  "description": "Chave-bot - o bot implacavel da vila",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh start.sh || cmd /c start.bat",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "chaves-bot"
+  ],
+  "author": "Gaspar devs</>",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

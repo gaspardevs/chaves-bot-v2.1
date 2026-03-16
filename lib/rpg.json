@@ -1,0 +1,36 @@
+{
+  "users": {
+    "639759041499": {
+      "nome": "Gaspar devs",
+      "idade": 25,
+      "personagem": "",
+      "profissao": "",
+      "moedas": 100,
+      "inventario": [],
+      "createdAt": 1772933552863,
+      "updatedAt": 1772933612208
+    },
+    "38414556626972": {
+      "nome": "Gaspar devs </>",
+      "idade": 20,
+      "personagem": "guerreiro",
+      "profissao": "programador",
+      "moedas": 20056,
+      "inventario": [],
+      "createdAt": 1772936552029,
+      "updatedAt": 1772936693385
+    },
+    "351924423740": {
+      "nome": "Gaspar devs </>",
+      "idade": 20,
+      "personagem": "guerreiro",
+      "profissao": "programador",
+      "moedas": 399,
+      "inventario": [
+        "pera"
+      ],
+      "createdAt": 1773353527565,
+      "updatedAt": 1773353703465
+    }
+  }
+}

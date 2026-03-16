@@ -1,0 +1,63 @@
+{
+  "groups": {
+    "120363423387603739@g.us": {
+      "enabled": false,
+      "paidUntil": 0,
+      "trialUntil": 1773085071142,
+      "createdAt": 1772055628174,
+      "lastWarningAt": 0
+    },
+    "120363336390603454@g.us": {
+      "enabled": false,
+      "paidUntil": 0,
+      "trialUntil": 0,
+      "createdAt": 1772998532374,
+      "lastWarningAt": 0
+    },
+    "120363409622254717@g.us": {
+      "enabled": false,
+      "paidUntil": 0,
+      "trialUntil": 0,
+      "createdAt": 1772998532375,
+      "lastWarningAt": 0
+    },
+    "120363421548318162@g.us": {
+      "enabled": false,
+      "paidUntil": 0,
+      "trialUntil": 0,
+      "createdAt": 1772998532375,
+      "lastWarningAt": 0
+    },
+    "120363390984467627@g.us": {
+      "enabled": false,
+      "paidUntil": 0,
+      "trialUntil": 0,
+      "createdAt": 1772998532376,
+      "lastWarningAt": 0
+    },
+    "120363408478538702@g.us": {
+      "enabled": false,
+      "paidUntil": 0,
+      "trialUntil": 0,
+      "createdAt": 1772998532376,
+      "lastWarningAt": 0
+    }
+  },
+  "codes": {
+    "VILA-CPMPLZTZ": {
+      "createdAt": 1772998512792,
+      "createdBy": "38414556626972",
+      "used": false,
+      "usedByGroup": null,
+      "usedAt": 0
+    },
+    "VILA-D59P9WYB": {
+      "createdAt": 1772998598111,
+      "createdBy": "38414556626972",
+      "used": true,
+      "usedByGroup": "120363423387603739@g.us",
+      "usedAt": 1772998671142
+    }
+  },
+  "globalEnabled": false
+}

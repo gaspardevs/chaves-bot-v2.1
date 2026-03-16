@@ -1,0 +1,682 @@
+{
+  "abrirgrupo": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#abrirgrupo [parametros]",
+    "exemplo": "abrirgrupo 1"
+  },
+  "adicionar": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#adicionar [parametros]",
+    "exemplo": "adicionar 1"
+  },
+  "alterarfigu": {
+    "descricao": "Comando relacionado a criacao de figurinhas.",
+    "uso": "#alterarfigu [midia/texto]",
+    "exemplo": "alterarfigu"
+  },
+  "aluguel": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#aluguel [parametros]",
+    "exemplo": "aluguel"
+  },
+  "aluguelg": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#aluguelg [parametros]",
+    "exemplo": "aluguelg"
+  },
+  "analise": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#analise pergunta",
+    "exemplo": "analise ola"
+  },
+  "antilink": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#antilink [parametros]",
+    "exemplo": "antilink 1"
+  },
+  "antilink1": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#antilink1 [parametros]",
+    "exemplo": "antilink1 1"
+  },
+  "antipalavra": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#antipalavra [parametros]",
+    "exemplo": "antipalavra 1"
+  },
+  "antipv": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#antipv [parametros]",
+    "exemplo": "antipv 1"
+  },
+  "antipv1": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#antipv1 [parametros]",
+    "exemplo": "antipv1 1"
+  },
+  "antispam": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#antispam [parametros]",
+    "exemplo": "antispam 1"
+  },
+  "automsg": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#automsg [parametros]",
+    "exemplo": "automsg 1"
+  },
+  "avaliar": {
+    "descricao": "Envia feedback, sugestao, bug ou avaliacao para o dono.",
+    "uso": "#avaliar texto",
+    "exemplo": "avaliar comando muito bom"
+  },
+  "avalie": {
+    "descricao": "Envia feedback, sugestao, bug ou avaliacao para o dono.",
+    "uso": "#avalie texto",
+    "exemplo": "avalie comando muito bom"
+  },
+  "ban": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#ban [parametros]",
+    "exemplo": "ban 1"
+  },
+  "bater": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#bater @usuario",
+    "exemplo": "bater @usuario"
+  },
+  "beijar": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#beijar @usuario",
+    "exemplo": "beijar @usuario"
+  },
+  "bemvindo": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#bemvindo [parametros]",
+    "exemplo": "bemvindo 1"
+  },
+  "bibliafrases": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#bibliafrases",
+    "exemplo": "bibliafrases"
+  },
+  "block": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#block [parametros]",
+    "exemplo": "block 1"
+  },
+  "botoff": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#botoff [parametros]",
+    "exemplo": "botoff"
+  },
+  "broadcast": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#broadcast [parametros]",
+    "exemplo": "broadcast"
+  },
+  "bruxado71": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#bruxado71",
+    "exemplo": "bruxado71"
+  },
+  "bug": {
+    "descricao": "Envia feedback, sugestao, bug ou avaliacao para o dono.",
+    "uso": "#bug texto",
+    "exemplo": "bug comando muito bom"
+  },
+  "cadastrar": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#cadastrar [parametros]",
+    "exemplo": "cadastrar"
+  },
+  "calcular": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#calcular [parametros]",
+    "exemplo": "calcular"
+  },
+  "cartao24h": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#cartao24h [parametros]",
+    "exemplo": "cartao24h"
+  },
+  "cartao24horas": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#cartao24horas [parametros]",
+    "exemplo": "cartao24horas"
+  },
+  "casalrank": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#casalrank @usuario",
+    "exemplo": "casalrank @usuario"
+  },
+  "chat": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#chat pergunta",
+    "exemplo": "chat ola"
+  },
+  "chatgpt": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#chatgpt pergunta",
+    "exemplo": "chatgpt ola"
+  },
+  "chaves": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#chaves",
+    "exemplo": "chaves"
+  },
+  "chavesfigu": {
+    "descricao": "Comando relacionado a criacao de figurinhas.",
+    "uso": "#chavesfigu [midia/texto]",
+    "exemplo": "chavesfigu"
+  },
+  "chiquinha": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#chiquinha",
+    "exemplo": "chiquinha"
+  },
+  "chiquinhafigu": {
+    "descricao": "Comando relacionado a criacao de figurinhas.",
+    "uso": "#chiquinhafigu [midia/texto]",
+    "exemplo": "chiquinhafigu"
+  },
+  "ciumes": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#ciumes @usuario",
+    "exemplo": "ciumes @usuario"
+  },
+  "claude": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#claude pergunta",
+    "exemplo": "claude ola"
+  },
+  "cmdusados": {
+    "descricao": "Mostra informacoes, estatisticas ou detalhes de comandos.",
+    "uso": "#cmdusados [opcional]",
+    "exemplo": "cmdusados"
+  },
+  "codigo": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#codigo pergunta",
+    "exemplo": "codigo ola"
+  },
+  "comprarpremium": {
+    "descricao": "Comando relacionado ao modulo premium e planos.",
+    "uso": "#comprarpremium [parametros]",
+    "exemplo": "comprarpremium"
+  },
+  "conselho": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#conselho",
+    "exemplo": "conselho"
+  },
+  "corno": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#corno @usuario",
+    "exemplo": "corno @usuario"
+  },
+  "correr": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#correr @usuario",
+    "exemplo": "correr @usuario"
+  },
+  "criarfigu": {
+    "descricao": "Comando relacionado a criacao de figurinhas.",
+    "uso": "#criarfigu [midia/texto]",
+    "exemplo": "criarfigu"
+  },
+  "criativo": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#criativo pergunta",
+    "exemplo": "criativo ola"
+  },
+  "desban": {
+    "descricao": "Comando desban da vila.",
+    "uso": "#desban",
+    "exemplo": "desban"
+  },
+  "desblock": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#desblock [parametros]",
+    "exemplo": "desblock 1"
+  },
+  "desmutar": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#desmutar [parametros]",
+    "exemplo": "desmutar 1"
+  },
+  "dev": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#dev pergunta",
+    "exemplo": "dev ola"
+  },
+  "diascasados": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#diascasados @usuario",
+    "exemplo": "diascasados @usuario"
+  },
+  "diasnamoro": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#diasnamoro @usuario",
+    "exemplo": "diasnamoro @usuario"
+  },
+  "divorcio": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#divorcio @usuario",
+    "exemplo": "divorcio @usuario"
+  },
+  "divórcio": {
+    "descricao": "Comando divórcio da vila.",
+    "uso": "#divórcio",
+    "exemplo": "divórcio"
+  },
+  "dm": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#dm [parametros]",
+    "exemplo": "dm"
+  },
+  "donaflorinda": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#donaflorinda",
+    "exemplo": "donaflorinda"
+  },
+  "dormir": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#dormir @usuario",
+    "exemplo": "dormir @usuario"
+  },
+  "esfaquear": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#esfaquear @usuario",
+    "exemplo": "esfaquear @usuario"
+  },
+  "explicar": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#explicar pergunta",
+    "exemplo": "explicar ola"
+  },
+  "fechargp": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#fechargp [parametros]",
+    "exemplo": "fechargp 1"
+  },
+  "figuimagem": {
+    "descricao": "Comando relacionado a criacao de figurinhas.",
+    "uso": "#figuimagem [midia/texto]",
+    "exemplo": "figuimagem"
+  },
+  "fofoqueiro": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#fofoqueiro @usuario",
+    "exemplo": "fofoqueiro @usuario"
+  },
+  "fugir": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#fugir @usuario",
+    "exemplo": "fugir @usuario"
+  },
+  "gado": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#gado @usuario",
+    "exemplo": "gado @usuario"
+  },
+  "girafales": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#girafales",
+    "exemplo": "girafales"
+  },
+  "gruposon": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#gruposon [parametros]",
+    "exemplo": "gruposon"
+  },
+  "imgem": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#imgem pergunta",
+    "exemplo": "imgem ola"
+  },
+  "info": {
+    "descricao": "Mostra informacoes, estatisticas ou detalhes de comandos.",
+    "uso": "#info [opcional]",
+    "exemplo": "info"
+  },
+  "infocmd": {
+    "descricao": "Mostra informacoes, estatisticas ou detalhes de comandos.",
+    "uso": "#infocmd [opcional]",
+    "exemplo": "infocmd"
+  },
+  "inhonho": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#inhonho",
+    "exemplo": "inhonho"
+  },
+  "jogodavelha": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#jogodavelha @usuario",
+    "exemplo": "jogodavelha @usuario"
+  },
+  "lembrete": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#lembrete [parametros]",
+    "exemplo": "lembrete"
+  },
+  "logo3d": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logo3d SeuTexto",
+    "exemplo": "logo3d Chaves Bot"
+  },
+  "logobot": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logobot SeuTexto",
+    "exemplo": "logobot Chaves Bot"
+  },
+  "logocircular": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logocircular SeuTexto",
+    "exemplo": "logocircular Chaves Bot"
+  },
+  "logofogo": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logofogo SeuTexto",
+    "exemplo": "logofogo Chaves Bot"
+  },
+  "logogamer": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logogamer SeuTexto",
+    "exemplo": "logogamer Chaves Bot"
+  },
+  "logogelo": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logogelo SeuTexto",
+    "exemplo": "logogelo Chaves Bot"
+  },
+  "logogradiente": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logogradiente SeuTexto",
+    "exemplo": "logogradiente Chaves Bot"
+  },
+  "logominimal": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logominimal SeuTexto",
+    "exemplo": "logominimal Chaves Bot"
+  },
+  "logoneon": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logoneon SeuTexto",
+    "exemplo": "logoneon Chaves Bot"
+  },
+  "logoroblox": {
+    "descricao": "Gera logo em imagem com estilo especifico e texto.",
+    "uso": "#logoroblox SeuTexto",
+    "exemplo": "logoroblox Chaves Bot"
+  },
+  "marcar": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#marcar [parametros]",
+    "exemplo": "marcar"
+  },
+  "menu": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menu",
+    "exemplo": "menu"
+  },
+  "menuadm": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menuadm",
+    "exemplo": "menuadm"
+  },
+  "menubrincadeira": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menubrincadeira",
+    "exemplo": "menubrincadeira"
+  },
+  "menucriador": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menucriador",
+    "exemplo": "menucriador"
+  },
+  "menufigurinha": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menufigurinha",
+    "exemplo": "menufigurinha"
+  },
+  "menufigurinhas": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menufigurinhas",
+    "exemplo": "menufigurinhas"
+  },
+  "menuia": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menuia",
+    "exemplo": "menuia"
+  },
+  "menulogo": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menulogo",
+    "exemplo": "menulogo"
+  },
+  "menulogos": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menulogos",
+    "exemplo": "menulogos"
+  },
+  "menupremium": {
+    "descricao": "Abre um menu com lista de comandos desse modulo.",
+    "uso": "#menupremium",
+    "exemplo": "menupremium"
+  },
+  "msgbenvindo": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#msgbenvindo [parametros]",
+    "exemplo": "msgbenvindo 1"
+  },
+  "msgboavinda": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#msgboavinda [parametros]",
+    "exemplo": "msgboavinda 1"
+  },
+  "msgsaida": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#msgsaida [parametros]",
+    "exemplo": "msgsaida 1"
+  },
+  "mutar": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#mutar [parametros]",
+    "exemplo": "mutar 1"
+  },
+  "parabenizar": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#parabenizar [parametros]",
+    "exemplo": "parabenizar"
+  },
+  "pedidocasar": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#pedidocasar @usuario",
+    "exemplo": "pedidocasar @usuario"
+  },
+  "pedidonamoro": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#pedidonamoro @usuario",
+    "exemplo": "pedidonamoro @usuario"
+  },
+  "perfil": {
+    "descricao": "Mostra informacoes, estatisticas ou detalhes de comandos.",
+    "uso": "#perfil [opcional]",
+    "exemplo": "perfil"
+  },
+  "ping": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#ping [parametros]",
+    "exemplo": "ping"
+  },
+  "play": {
+    "descricao": "Comando play da vila.",
+    "uso": "#play",
+    "exemplo": "play"
+  },
+  "premium": {
+    "descricao": "Comando relacionado ao modulo premium e planos.",
+    "uso": "#premium [parametros]",
+    "exemplo": "premium"
+  },
+  "promover": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#promover [parametros]",
+    "exemplo": "promover 1"
+  },
+  "quico": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#quico",
+    "exemplo": "quico"
+  },
+  "quicofigu": {
+    "descricao": "Comando relacionado a criacao de figurinhas.",
+    "uso": "#quicofigu [midia/texto]",
+    "exemplo": "quicofigu"
+  },
+  "rebaixar": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#rebaixar [parametros]",
+    "exemplo": "rebaixar 1"
+  },
+  "registrar": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#registrar [parametros]",
+    "exemplo": "registrar"
+  },
+  "registro": {
+    "descricao": "Ferramenta util do bot para uso geral.",
+    "uso": "#registro [parametros]",
+    "exemplo": "registro"
+  },
+  "relatarbug": {
+    "descricao": "Envia feedback, sugestao, bug ou avaliacao para o dono.",
+    "uso": "#relatarbug texto",
+    "exemplo": "relatarbug comando muito bom"
+  },
+  "restart": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#restart [parametros]",
+    "exemplo": "restart"
+  },
+  "resumo": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#resumo pergunta",
+    "exemplo": "resumo ola"
+  },
+  "roblox": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#roblox pergunta",
+    "exemplo": "roblox ola"
+  },
+  "roubar": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#roubar @usuario",
+    "exemplo": "roubar @usuario"
+  },
+  "roubaramor": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#roubaramor @usuario",
+    "exemplo": "roubaramor @usuario"
+  },
+  "saida": {
+    "descricao": "Comando de administracao e seguranca para grupos.",
+    "uso": "#saida [parametros]",
+    "exemplo": "saida 1"
+  },
+  "separar": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#separar @usuario",
+    "exemplo": "separar @usuario"
+  },
+  "seumadruga": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#seumadruga",
+    "exemplo": "seumadruga"
+  },
+  "seumadrugafigu": {
+    "descricao": "Comando relacionado a criacao de figurinhas.",
+    "uso": "#seumadrugafigu [midia/texto]",
+    "exemplo": "seumadrugafigu"
+  },
+  "shutdown": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#shutdown [parametros]",
+    "exemplo": "shutdown"
+  },
+  "socar": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#socar @usuario",
+    "exemplo": "socar @usuario"
+  },
+  "srbarriga": {
+    "descricao": "Envia frase aleatoria do personagem/tema escolhido.",
+    "uso": "#srbarriga",
+    "exemplo": "srbarriga"
+  },
+  "status": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#status [parametros]",
+    "exemplo": "status"
+  },
+  "statuspremium": {
+    "descricao": "Comando relacionado ao modulo premium e planos.",
+    "uso": "#statuspremium [parametros]",
+    "exemplo": "statuspremium"
+  },
+  "sugestao": {
+    "descricao": "Envia feedback, sugestao, bug ou avaliacao para o dono.",
+    "uso": "#sugestao texto",
+    "exemplo": "sugestao comando muito bom"
+  },
+  "sugestão": {
+    "descricao": "Comando sugestão da vila.",
+    "uso": "#sugestão",
+    "exemplo": "sugestão"
+  },
+  "topativo": {
+    "descricao": "Mostra informacoes, estatisticas ou detalhes de comandos.",
+    "uso": "#topativo [opcional]",
+    "exemplo": "topativo"
+  },
+  "topcasais": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#topcasais @usuario",
+    "exemplo": "topcasais @usuario"
+  },
+  "topmsg": {
+    "descricao": "Mostra informacoes, estatisticas ou detalhes de comandos.",
+    "uso": "#topmsg [opcional]",
+    "exemplo": "topmsg"
+  },
+  "totalcmd": {
+    "descricao": "Mostra informacoes, estatisticas ou detalhes de comandos.",
+    "uso": "#totalcmd [opcional]",
+    "exemplo": "totalcmd"
+  },
+  "tradutor": {
+    "descricao": "Comando de IA (neste bot pode estar desativado).",
+    "uso": "#tradutor pergunta",
+    "exemplo": "tradutor ola"
+  },
+  "trair": {
+    "descricao": "Comando de brincadeira/interacao entre membros.",
+    "uso": "#trair @usuario",
+    "exemplo": "trair @usuario"
+  },
+  "update": {
+    "descricao": "Comando exclusivo de dono/criador para controle do bot.",
+    "uso": "#update [parametros]",
+    "exemplo": "update"
+  },
+  "resetcasais": {
+    "descricao": "Reseta o ranking de casais do grupo (somente admin ou dono).",
+    "uso": "#resetcasais",
+    "exemplo": "resetcasais"
+  },
+  "convite": {
+    "descricao": "Comando em cadastro. Em breve com descricao completa.",
+    "uso": "#convite",
+    "exemplo": "convite"
+  }
+}
