@@ -111,5 +111,8 @@ nohup node index.js &
 
 >
 
-**chaves-bot-v2.1** esse bot não esta totalmente completo! ela está faltando apis como do gpt, grok e outras ia, uma que funciona principal é da nexia porem outros comandos como logo, figurinha e ia não vao pegar a não ser que tu coloques no config sua key. e antes de inicar configura o bot para teu gosto desde nome, dono, prefix e etc.
+**chaves-bot-v2.1** esse bot não esta totalmente completo! ela está faltando apis como do gpt, grok e outras ia,
+ uma que funciona principal é da nexia porem outros comandos como logo, figurinha e ia
+ não vao pegar a não ser que tu coloques no config sua key.
+ e antes de inicar configura o bot para teu gosto desde nome, dono, prefix e etc.
 e esse bot não está 100% de não ter bugs e erros!
