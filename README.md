@@ -1,6 +1,6 @@
 # 🌽 Chaves-Bot V2.1 🔒
 
-![Chaves-Bot](./biblioteca/img/menu-vila.jpg)  
+![Chaves-Bot](lib/img/menu-vila.jpg)  
 > **O bot definitivo para WhatsApp: seguro, completo e divertido!**
 
 ---
